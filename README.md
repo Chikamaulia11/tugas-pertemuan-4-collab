@@ -7,4 +7,4 @@ perubahan pada file `data.txt`.
 
 ## Anggota Kelompok
 - Chika Maulia Apriatin (2403125)
-- Nama Anggota 2
+- Alica Azwa Nayla (2409693)
